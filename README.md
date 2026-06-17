@@ -30,13 +30,13 @@ learning to flag high-risk patients before they leave the hospital.
 ## Visuals
 
 ### Finding the right number of clusters
-![Elbow Method](images/Elbow_Method_Finding_Optimal_K.png)
+![Elbow Method](images/Elbow Method_Finding Optimal K.png)
 
 ### Patient segments visualized in 2D
 ![PCA Clusters](images/PCA.png)
 
 ### Top features driving readmission
-![Feature Importance](images/Top_15_Features.png)
+![Feature Importance](images/Top 15 Features.png)
 
 ### Model performance
 ![ROC Curve](images/ROC.png)
