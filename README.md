@@ -27,6 +27,20 @@ learning to flag high-risk patients before they leave the hospital.
 | Random Forest (default) | 0.582 | 4% |
 | Random Forest (tuned) | 0.638 | 37% |
 
+## Visuals
+
+### Finding the right number of clusters
+![Elbow Method](images/Elbow_Method_Finding_Optimal_K.png)
+
+### Patient segments visualized in 2D
+![PCA Clusters](images/PCA.png)
+
+### Top features driving readmission
+![Feature Importance](images/Top_15_Features.png)
+
+### Model performance
+![ROC Curve](images/ROC.png)
+
 ## Key findings
 
 The strongest predictors of readmission were number of lab procedures,
